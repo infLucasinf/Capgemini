@@ -1,6 +1,6 @@
 Linguagem: JAVA;
 
-Intruções: 
+Instruções: 
 
 Use apenas a primeira String (anagrama1) para fazer o teste das substrings, a segunda String(anagrama2)é usado apenas para testar
 se é anagrama ou não embaralhando as letras;
